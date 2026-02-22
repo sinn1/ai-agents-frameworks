@@ -18,6 +18,8 @@
   <p align="center">
     A hands-on comparison of modern AI agent and multi-agent frameworks. Get started with practical examples and explore the unique features of each framework.
     <br />
+    <a href="https://sinn1.github.io/ai-agents-frameworks/">Guides & Docs</a>
+    ·
     <a href="./issues/new?labels=bug&template=bug-report.md">Report Bug</a>
     ·
     <a href="./issues/new?labels=enhancement&template=feature-request.md">Request Feature</a>
@@ -359,6 +361,15 @@ The `study-agents-differences/` folder contains comprehensive scripts and utilit
 - Performance benchmarks measuring response time, token usage, and tool utilization  
 - Detailed results and analysis comparing different agent designs and tool integrations
 - Interactive Streamlit UI for real-time comparison (`streamlit run agent-ui.py`)
+
+---
+
+## 📖 Guides
+
+Background reading and plain-language explanations are published on the project's GitHub Pages site:
+
+- [Guides home](https://sinn1.github.io/ai-agents-frameworks/guides/) — index of all guides
+- [How AI Agents Work](https://sinn1.github.io/ai-agents-frameworks/guides/how-agents-work) — a non-technical introduction to agents, tools, multi-agent systems, and guardrails
 
 ---
 
