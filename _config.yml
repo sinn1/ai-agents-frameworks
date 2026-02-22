@@ -1,3 +1,23 @@
 title: AI Agents Frameworks
 description: Guides and documentation on how AI agents work
 theme: minima
+
+# Only show these pages in the nav header
+header_pages:
+  - guides/index.md
+  - guides/how-agents-work.md
+
+# Exclude everything except the guides directory from Jekyll processing
+exclude:
+  - ag2/
+  - agno/
+  - autogen/
+  - crewai/
+  - google-adk/
+  - langgraph/
+  - llama-index/
+  - openai-agents-sdk/
+  - pydantic-ai/
+  - smolagents/
+  - study-agents-differences/
+  - README.md
