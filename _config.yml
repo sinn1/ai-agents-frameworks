@@ -6,6 +6,7 @@ theme: minima
 header_pages:
   - guides/index.md
   - guides/how-agents-work.md
+  - guides/openclaw.md
 
 # Exclude everything except the guides directory from Jekyll processing
 exclude:
