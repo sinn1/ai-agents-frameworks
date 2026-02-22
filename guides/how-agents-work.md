@@ -1,3 +1,7 @@
+---
+title: How AI Agents Work
+---
+
 # How AI Agents Work
 
 A plain-language guide for non-engineers.
