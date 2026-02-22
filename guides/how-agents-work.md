@@ -2,11 +2,7 @@
 title: How AI Agents Work
 ---
 
-# How AI Agents Work
-
-A plain-language guide for non-engineers.
-
----
+*A plain-language guide for non-engineers.*
 
 ## What is an AI Agent?
 
@@ -167,7 +163,7 @@ Without guardrails, autonomous agents can go off-script, make unintended changes
 Here's how these concepts stack up from simple to sophisticated:
 
 | Complexity | What it looks like |
-|---|---|
+| --- | --- |
 | Basic agent | Converses and reasons using built-in knowledge only |
 | Agent with tools | Can interact with the real world — look things up, take actions |
 | Agent using specialist agents | Delegates to focused sub-agents, handles complex compound tasks |
